@@ -1,0 +1,21 @@
+screening_id,customer_id,screening_date,list_type,match_score,screening_result,analyst_decision
+S001,C001,2026-11-01,Synthetic Sanctions List,12,No Match,Closed - No Match
+S002,C002,2026-11-01,Synthetic Sanctions List,81,Potential Match,Closed - False Positive
+S003,C003,2026-11-01,Synthetic Sanctions List,8,No Match,Closed - No Match
+S004,C004,2026-11-01,Synthetic Sanctions List,90,Potential Match,Under Review
+S005,C005,2026-11-01,Synthetic Sanctions List,19,No Match,Closed - No Match
+S006,C006,2026-11-01,Synthetic Sanctions List,12,No Match,Closed - No Match
+S007,C007,2026-11-01,Synthetic Sanctions List,81,Potential Match,Closed - False Positive
+S008,C008,2026-11-01,Synthetic Sanctions List,8,No Match,Closed - No Match
+S009,C009,2026-11-01,Synthetic Sanctions List,90,Potential Match,Under Review
+S010,C010,2026-11-01,Synthetic Sanctions List,19,No Match,Closed - No Match
+S011,C011,2026-11-01,Synthetic Sanctions List,12,No Match,Closed - No Match
+S012,C012,2026-11-01,Synthetic Sanctions List,81,Potential Match,Closed - False Positive
+S013,C013,2026-11-01,Synthetic Sanctions List,8,No Match,Closed - No Match
+S014,C014,2026-11-01,Synthetic Sanctions List,90,Potential Match,Under Review
+S015,C015,2026-11-01,Synthetic Sanctions List,19,No Match,Closed - No Match
+S016,C016,2026-11-01,Synthetic Sanctions List,12,No Match,Closed - No Match
+S017,C017,2026-11-01,Synthetic Sanctions List,81,Potential Match,Closed - False Positive
+S018,C018,2026-11-01,Synthetic Sanctions List,8,No Match,Closed - No Match
+S019,C019,2026-11-01,Synthetic Sanctions List,90,Potential Match,Under Review
+S020,C020,2026-11-01,Synthetic Sanctions List,19,No Match,Closed - No Match
