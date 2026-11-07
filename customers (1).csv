@@ -1,0 +1,21 @@
+customer_id,customer_name,country,customer_type,risk_level,account_open_date
+C001,Synthetic Customer 01,Sri Lanka,Individual,Low,2024-01-01
+C002,Synthetic Customer 02,India,Individual,Medium,2024-01-15
+C003,Synthetic Customer 03,Singapore,Business,Low,2024-01-29
+C004,Synthetic Customer 04,United Arab Emirates,Individual,High,2024-02-12
+C005,Synthetic Customer 05,Sri Lanka,Business,Medium,2024-02-26
+C006,Synthetic Customer 06,India,Individual,Low,2024-03-11
+C007,Synthetic Customer 07,Singapore,Individual,Medium,2024-03-25
+C008,Synthetic Customer 08,United Arab Emirates,Business,Low,2024-04-08
+C009,Synthetic Customer 09,Sri Lanka,Individual,High,2024-04-22
+C010,Synthetic Customer 10,India,Business,Medium,2024-05-06
+C011,Synthetic Customer 11,Singapore,Individual,Low,2024-05-20
+C012,Synthetic Customer 12,United Arab Emirates,Individual,Medium,2024-06-03
+C013,Synthetic Customer 13,Sri Lanka,Business,Low,2024-06-17
+C014,Synthetic Customer 14,India,Individual,High,2024-07-01
+C015,Synthetic Customer 15,Singapore,Business,Medium,2024-07-15
+C016,Synthetic Customer 16,United Arab Emirates,Individual,Low,2024-07-29
+C017,Synthetic Customer 17,Sri Lanka,Individual,Medium,2024-08-12
+C018,Synthetic Customer 18,India,Business,Low,2024-08-26
+C019,Synthetic Customer 19,Singapore,Individual,High,2024-09-09
+C020,Synthetic Customer 20,United Arab Emirates,Business,Medium,2024-09-23
